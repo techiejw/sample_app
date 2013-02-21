@@ -24,3 +24,10 @@ rspec ./spec/requests/static_pages_spec.rb:33 # Static pages Contact page
 
 Randomized with seed 55653
 
+.............................
+
+Finished in 5.48 seconds
+29 examples, 0 failures
+
+Randomized with seed 57658
+
